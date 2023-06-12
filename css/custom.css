@@ -1,0 +1,46 @@
+body {
+    background-color: #DDE6ED;
+}
+
+nav{
+    background-color: #27374D;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.avatar{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-left: 200px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    margin-right: 100px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    display: block;
+    color: white;
+    font-size:20px;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+}
