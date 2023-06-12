@@ -44,3 +44,18 @@ li a {
     padding: 10px 20px;
     text-decoration: none;
 }
+
+.image-cover{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10rem;
+    width: 20%;
+    border-radius: 50%;
+}
+
+.title-cover{
+    font-size: 2.75rem;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+}
